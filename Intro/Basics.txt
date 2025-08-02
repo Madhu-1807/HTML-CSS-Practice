@@ -1,0 +1,8 @@
+CSS Display Style
+
+images and buttons and textbox are 
+inline-block elements for default.
+Paragraph and headers are block elements by default.
+These could be interchnaged using the  display attribute.
+Block -- occupies the whole block even if its not used.
+Inline-block -- occcupies only required space.

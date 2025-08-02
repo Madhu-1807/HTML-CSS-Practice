@@ -1,0 +1,30 @@
+.grid-view{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.name{
+    font-family: Arial;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 5px;  
+}
+
+.age{
+    font-family: Arial;
+    color: grey;
+    padding-bottom: 5px;
+}
+
+.adopt{
+    background-color: rgb(47, 154, 255);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    margin-left: 0px;
+    border-radius: 4px;
+}
